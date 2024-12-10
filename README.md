@@ -1,2 +1,1 @@
-# cornerlab
-Roomplaning and installments for the CornerLab
+# CornerLab - Room design
