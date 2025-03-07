@@ -3,3 +3,7 @@
 </p>
 
 --- 
+
+This repo includes room plans and CAD construction for the CornerLab used to manufacture and layout the interior.
+
+![Basic roomplan](export/cornerlab_roomplan.svg)
